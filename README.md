@@ -17,7 +17,7 @@
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
   
-<a href="https://www.linkedin.com/in/lunox/">
+<a href="https://www.linkedin.com/in/jonathan-phiri-80a4a7218">
   <img align="center" 
        alt="Linkdein" 
        width="22px" 
@@ -38,7 +38,7 @@
        src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
   </a>
   
-<a href="mailto:lunox.code@gmail.com">
+<a href="mailto:j0n9.phiri@gmail.com">
   <img align="center" 
        alt="Gmail" 
        width="22px" 
