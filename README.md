@@ -61,7 +61,7 @@
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code> <!-- IBM Cyber security Analyst  -->
-  <code<img height="40" src="https://camo.githubusercontent.com/3e635322da3c82841423429ff489ce1e7b0e77112f86b8b991512b8f3219c052/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d706c61696e2d776f72646d61726b2e737667"></code>
+  <code<img height="40" src="[https://camo.githubusercontent.com/3e635322da3c82841423429ff489ce1e7b0e77112f86b8b991512b8f3219c052/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d706c61696e2d776f72646d61726b2e737667](https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667)"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code> <!-- Kali linux -->
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <!-- Java -->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <!-- Python -->
