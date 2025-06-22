@@ -142,6 +142,7 @@ I have extensive experience developing and maintaining healthcare management sys
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ja-phiri&theme=tokyonight" alt="GitHub Streak Stats"/>
+  ![Snake animation](https://github.com/ja-phiri/ja-phiri/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## 🏆 GitHub Trophies
