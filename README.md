@@ -1,7 +1,10 @@
 # Hi there! 👋 I'm Jonathan Phiri
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Healthcare+Systems+Expert;Cybersecurity+Enthusiast;Always+Building+Something+Cool" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Innovator;Cybersecurity+Enthusiast;Always+Building+Something+Cool" alt="Typing SVG" />
+</div>
+
 </div>
 
 <div align="center">
@@ -12,69 +15,64 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with extensive experience in healthcare systems development. I build robust, scalable applications while exploring the fascinating world of cybersecurity. My expertise spans from creating user-friendly interfaces to designing secure backend architectures.
+I'm a **full-stack developer** with a deep curiosity for how things work — and how to make them better. Whether it's crafting sleek frontends, building secure backends, or automating infrastructure, I enjoy turning ideas into scalable, secure, and user-friendly software.
 
-- 💻 **Full-Stack Developer** specializing in modern web technologies
-- 🏥 **Healthcare Systems Expert** with hands-on experience in medical software development
-- 🔐 **Cybersecurity Enthusiast** learning penetration testing and security practices
-- 📊 **Project Management** certified by Microsoft Career Essentials
-- 🌱 Currently expanding my security knowledge and ethical hacking skills
-- 📫 Always open to collaboration on innovative projects
+I bring together strong technical skills with a mindset for problem-solving and continuous improvement. From startups to specialized systems, I strive to build tools that matter.
+
+- 💻 **Full-Stack Web & App Developer** | React, Vue, Flutter, Django, Laravel, Node.js  
+- 🔐 **Cybersecurity Enthusiast** | Ethical hacking, secure coding, pentesting labs  
+- ☁️ **DevOps & Cloud Curious** | Docker, CI/CD, infrastructure-as-code 
+- 📊 **Certified in Project Management** | Microsoft Career Essentials  
+- 🤝 Open to exciting projects, mentorship, and collaboration
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart/Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Programming Languages  
+<a href="https://www.php.net/" title="PHP"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+<a href="https://go.dev/" title="Go"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
+<a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+<a href="https://flutter.dev/" title="Dart & Flutter"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
 
-### 🌐 Backend Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🌐 Backend Frameworks  
+<a href="https://laravel.com/" title="Laravel"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
+<a href="https://www.djangoproject.com/" title="Django"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
 
-### ⚡ Frontend Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### ⚡ Frontend Technologies  
+<a href="https://reactjs.org/" title="React"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+<a href="https://vuejs.org/" title="Vue.js"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" /></a>
+<a href="https://angular.io/" title="Angular"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+<a href="https://livewire.laravel.com/" title="Laravel Livewire"><img src="https://img.shields.io/badge/Livewire-4E1CFF?style=for-the-badge&logo=laravel&logoColor=white" alt="Livewire" /></a>
 
-### 🗄️ Databases & Analytics
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Databases  
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 
-### 🎨 Design & Prototyping
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
+### ☁️ DevOps & Cloud Tools  
+<a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+<a href="https://www.terraform.io/" title="Terraform"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /></a>
+<a href="https://www.digitalocean.com/" title="DigitalOcean"><img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" /></a>
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
+<a href="https://ubuntu.com/" title="Linux / Ubuntu"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
 
-### 🔒 Security & Penetration Testing
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+### 🔐 Security & Pentesting  
+<a href="https://www.kali.org/" title="Kali Linux"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" /></a>
+<a href="https://www.metasploit.com/" title="Metasploit Framework"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /></a>
+<a href="https://www.wireshark.org/" title="Wireshark"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></a>
 
-### 🛠️ Tools & Development
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+### 🧰 Development Tools  
+<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+<a href="https://www.electronjs.org/" title="Electron (Desktop App Dev)"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" /></a>
+<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /></a>
 
-## 🏥 Healthcare Systems Experience
-
-I have extensive experience developing and maintaining healthcare management systems, including:
-
-- **Electronic Health Records (EHR)** integration and development
-- **Patient Management Systems** with secure data handling
-- **Medical Billing & Insurance** processing applications
-- **HIPAA-compliant** application architecture
-- **Healthcare APIs** and interoperability solutions
-- **Telemedicine platforms** and remote patient monitoring
 
 ## 📜 Certifications
 
@@ -89,50 +87,6 @@ I have extensive experience developing and maintaining healthcare management sys
 - 🔐 **OWASP Security Guidelines**
 - 📱 **Mobile App Security**
 
-## 📌 Featured Projects
-
-### 🏥 [HealthCare Management System](https://github.com/ja-phiri/healthcare-management)
-**Laravel + Vue.js + PostgreSQL**
-- Complete hospital management solution with patient records, appointment scheduling, and billing
-- HIPAA-compliant data handling with role-based access control
-- Real-time notifications and dashboard analytics
-- **Tech Stack:** Laravel, Vue.js, PostgreSQL, TailwindCSS
-
-### 📱 [MedConnect Mobile App](https://github.com/ja-phiri/medconnect-flutter)
-**Flutter + Django REST API**
-- Cross-platform mobile app for patient-doctor communication
-- Secure messaging, appointment booking, and prescription management
-- Offline-first architecture with data synchronization
-- **Tech Stack:** Flutter, Django, PostgreSQL, Firebase
-
-### 🔐 [SecureAPI Gateway](https://github.com/ja-phiri/secure-api-gateway)
-**Go + JWT Authentication**
-- High-performance API gateway with advanced security features
-- Rate limiting, request validation, and threat detection
-- Healthcare data encryption and audit logging
-- **Tech Stack:** Go, Redis, MongoDB, Docker
-
-### 🌐 [EHR Integration Platform](https://github.com/ja-phiri/ehr-integration)
-**Node.js + React + MongoDB**
-- Seamless integration between different Electronic Health Record systems
-- HL7 FHIR standard implementation for healthcare interoperability
-- Real-time data synchronization across multiple healthcare providers
-- **Tech Stack:** Node.js, React, MongoDB, Socket.io
-
-### 📊 [Healthcare Analytics Dashboard](https://github.com/ja-phiri/health-analytics)
-**Python + Django + Chart.js**
-- Interactive dashboard for healthcare data visualization and insights
-- Patient flow analysis, resource optimization, and predictive modeling
-- GDPR and HIPAA compliant data processing
-- **Tech Stack:** Python, Django, PostgreSQL, Chart.js, TailwindCSS
-
-### 🔍 [VulnScan - Security Assessment Tool](https://github.com/ja-phiri/vulnscan)
-**Python + Kali Linux Tools**
-- Automated vulnerability scanning tool for web applications
-- Integration with popular security tools (Nmap, Nikto, SQLMap)
-- Comprehensive reporting with remediation suggestions
-- **Tech Stack:** Python, Bash, Kali Linux, HTML/CSS
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -142,7 +96,6 @@ I have extensive experience developing and maintaining healthcare management sys
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ja-phiri&theme=tokyonight" alt="GitHub Streak Stats"/>
-  ![Snake animation](https://github.com/ja-phiri/ja-phiri/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## 🏆 GitHub Trophies
@@ -163,10 +116,10 @@ I have extensive experience developing and maintaining healthcare management sys
 
 ## 💡 Fun Facts
 
-- 🚀 I've built healthcare systems that serve thousands of patients daily
-- 🔐 I practice ethical hacking in my free time to better secure my applications
-- 🌍 I believe technology can make healthcare more accessible worldwide
-- ☕ I debug better with coffee (lots of it!)
+- 🚀 I love building applications that solve real-world problems
+- 🔐 I practice ethical hacking to better understand security vulnerabilities
+- 🌍 I'm passionate about creating technology that makes a difference
+- ☕ I code better with silence and coffee!
 
 ## 💭 Random Dev Quote
 
@@ -178,9 +131,14 @@ I have extensive experience developing and maintaining healthcare management sys
 
 ---
 
+
 <div align="center">
-  
-⭐️ From [ja-phiri](https://github.com/ja-phiri) | Building the future of healthcare technology 🏥
+🌐 Building future-ready software with a security-first mindset ⚙️
+</div>
+<div align="center">
+⭐️ Stars, follows, and feedback are appreciated—thanks for stopping by!
+</div>
+<div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ja-phiri&color=blue&style=flat-square)
 
