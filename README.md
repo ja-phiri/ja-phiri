@@ -83,13 +83,14 @@ I bring together strong technical skills with a mindset for problem-solving and 
 - 📊 **Microsoft Career Essentials in Project Management**
 - 💼 **LinkedIn Professional Development Certificates**
 
-## 🎯 Currently Learning
+## 🎯 2025 Learning Goals
 
-- 🛡️ **Advanced Cybersecurity Concepts**
-- 🔍 **Ethical Hacking & Penetration Testing**
-- ☁️ **Cloud Security Best Practices**
-- 🔐 **OWASP Security Guidelines**
-- 📱 **Mobile App Security**
+- ✅ Build 25+ open-source or portfolio projects
+- ☁️ Master Docker, CI/CD pipelines, and infrastructure-as-code
+- 🛡️ Learn practical cybersecurity tools (Burp Suite, Nmap, etc.)
+- 📱 Improve Flutter app performance and design patterns
+- 📚 Dive deeper into backend optimization and async programming
+
 
 ## 📊 GitHub Statistics
 
