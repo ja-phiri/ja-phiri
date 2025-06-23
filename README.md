@@ -13,12 +13,16 @@
 
 </div>
 
+
 ## 🚀 About Me
 
 I'm a **full-stack developer** with a deep curiosity for how things work — and how to make them better. Whether it's crafting sleek frontends, building secure backends, or automating infrastructure, I enjoy turning ideas into scalable, secure, and user-friendly software.
 
 I bring together strong technical skills with a mindset for problem-solving and continuous improvement. From startups to specialized systems, I strive to build tools that matter.
 
+- 📍 **Located in:** Lilongwe, Malawi <!-- Replace with your location -->
+- 💼 **Current Job:** ICT Officer at Daeyang Luke Hospital
+- 🎓 **Education:** BSc in ICT from Daeyang University
 - 💻 **Full-Stack Web & App Developer** | React, Vue, Flutter, Django, Laravel, Node.js  
 - 🔐 **Cybersecurity Enthusiast** | Ethical hacking, secure coding, pentesting labs  
 - ☁️ **DevOps & Cloud Curious** | Docker, CI/CD, infrastructure-as-code 
